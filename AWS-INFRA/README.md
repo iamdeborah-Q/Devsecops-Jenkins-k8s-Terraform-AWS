@@ -1,1 +1,4 @@
 
+# IMPLEMENTATION OF OF DEVSECOPS WITH JENKINS-TERRAFORM-AWS INFRA
+
+Devops has made it possible to develop application in a fast quicker time by time by aligning development, test and production tea, however in most most cases security is not intergrated in the development process and test becomes vulnerable to risks of bugs. Here is where DevSecOps comes into the picture. The DevSecOps approach includes incorporating security as significant components of DevOps practices. Whiles DevOps refers to collaborating of developments, testing of operation team to achieve continues delivery, DevSecOps involves the intergration of security with the sane DevOps process. Devops includes several areas of focuse which inclufdes Automated provisioning, continues Monitoring, continues intergration and test driven developments. As an extension of DevOps Midset, DevSecOps is the methodology of intergrating security tools i into the devOps process.
